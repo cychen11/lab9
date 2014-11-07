@@ -33,7 +33,7 @@ blank lines above should look like:
 
     Person A: Alice Cai
 
-    Person B: Jessica Lin
+    Person B: Caleb Chen
 
     Start with ```git checkout -b <readme-A or readme-B>```. The ```-b``` option
     to ```git checkout``` tells git to make a new branch and switch to it right
