@@ -31,7 +31,7 @@ down your answers in ```lab9.txt``` and [submit them through the form](https://d
 so that the blank "Person A:" lines have the person's name. At the end the two
 blank lines above should look like:
 
-    Person A: Sam Lau
+    Person A: Alice Cai
 
     Person B: Jessica Lin
 
